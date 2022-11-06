@@ -1,6 +1,6 @@
 ## Patch Variables:
 
-* __Bpm__ ```Number```
+* __Bpm__ ```Number``` (default Value: `120`)
 * __timesTriggered20__ ```Number```
 * __timesTriggered50__ ```Number```
 * __Trigger128__ ```Number```
